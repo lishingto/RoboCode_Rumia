@@ -6,7 +6,7 @@ import java.awt.Color;
 /**
  * BlueSapphire - a robot by Li Shing To
  * SYS-CRNO-1
- * Description:
+ * Description: k
  * A guard robot that moves up and down a wall and fires at anything it sees
  */
 public class Cirno extends Robot
