@@ -8,6 +8,7 @@ import java.awt.Color;
  * SYS-CRNO-4
  * Description: k
  * A guard robot that moves up and down a wall and fires at anything it sees
+ * Obstacles!!!!!!!
  */
 public class Cirno extends Robot
 {
