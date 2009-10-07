@@ -4,7 +4,7 @@ import robocode.*;
 import java.awt.Color;
 
 /**
- * BlueSapphire - a robot by Li Shing To
+ * Cirno - a robot by Li Shing To
  * SYS-CRNO-1
  * Description: k
  * A guard robot that moves up and down a wall and fires at anything it sees
