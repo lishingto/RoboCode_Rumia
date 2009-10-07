@@ -5,7 +5,7 @@ import java.awt.Color;
 
 /**
  * Cirno - a robot by Li Shing To
- * SYS-CRNO-1
+ * SYS-CRNO-2
  * Description: k
  * A guard robot that moves up and down a wall and fires at anything it sees
  */
